@@ -9,8 +9,12 @@ Najprej vklopimo stikalo na BreadBoard-u (OFF - kjučavnica ne sprejema vnašanj
 
 ### 2. Vnašanje PIN kode
 
-1. Ko je stikalo prižgano in ključavnica sprejema vnašanje števil lahko začnemo vnašati PIN kodo.
-2. Ključavnica ves čas preverja ali je vnos pravilen
-  1. Če je vnošeno geslo pravilno terminal izpiše "Geslo je pravilno"
-  2. Če je vnošeno geslo napačno terminal izpiše "Geslo je napačno"
-3. Uporabnik lahko vnese '\*' kar ponastavi trenutni vnos
+<ol>
+  <li> Ko je stikalo prižgano in ključavnica sprejema vnašanje števil lahko začnemo vnašati PIN kodo. </li>
+  <li> Ključavnica ves čas preverja ali je vnos pravilen? </li>
+  <ol>
+    <li> Če je vnošeno geslo pravilno terminal izpiše "Geslo je pravilno" </li>
+    <li> Če je vnošeno geslo napačno terminal izpiše "Geslo je napačno" </li>
+  </ol>
+  <li> Uporabnik lahko vnese '\*' kar ponastavi trenutni vnos. </li>
+</ol>
