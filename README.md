@@ -1,9 +1,14 @@
-# UPN_Projektna_KeyPad
+# UPN_Projektna_KeyPad (DOKUMENTACIJA)
 
 
 ## UPORABA
 
-### 1. Vkolp ključavnice
+### 1. Tabela   
+
+
+
+
+### 2. Vkolp ključavnice
 
 <table>
   <th colspan=2> SWITCH </th>
@@ -15,7 +20,7 @@
       <td> Ključavnica sprejema vnašanje števil </td>
 </table>
 
-### 2. Vnašanje PIN kode
+### 3. Vnašanje PIN kode
 
 <ol>
   <li> Ko je stikalo prižgano in ključavnica sprejema vnašanje števil lahko začnemo vnašati PIN kodo. </li>
@@ -26,3 +31,10 @@
   </ol>
   <li> Uporabnik lahko vnese '\*' kar ponastavi trenutni vnos. </li>
 </ol>
+
+
+## 
+
+
+
+
