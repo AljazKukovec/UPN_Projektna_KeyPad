@@ -5,7 +5,15 @@
 
 ### 1. Vkolp ključavnice
 
-Najprej vklopimo stikalo na BreadBoard-u (OFF - kjučavnica ne sprejema vnašanja števil; ON - ključavnica sprejema vnašanje števil)
+<table>
+  <th colspan=2> SWITCH </th>
+    <tr>
+      <td> OFF </td>
+      <td> Kjučavnica ne sprejema vnašanja števil </td>
+    <tr>
+      <td> ON </td>
+      <td> Ključavnica sprejema vnašanje števil </td>
+</table>
 
 ### 2. Vnašanje PIN kode
 
