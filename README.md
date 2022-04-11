@@ -1,4 +1,4 @@
-# UPN_Projektna_KeyPad (DOKUMENTACIJA)
+# UPN - Projektna Naloga - KeyPad (DOKUMENTACIJA)
 
 
 ## UPORABA
@@ -33,8 +33,17 @@
 </ol>
 
 
-## 
+### 4. Fritzing Skematika / BreadBoard
 
+<table>
+  <th colspan=2> SWITCH </th>
+    <tr>
+      <td> Skematika </td>
+      <td> <img src="https://github.com/AljazKukovec/UPN_Projektna_KeyPad/blob/main/KeyPad3x4_Fritzing/KeyPad3x4_Schematic.svg"     alt="smb" width="500"> </td>
+    <tr>
+      <td> Breadboard </td>
+      <td> <img src="https://github.com/AljazKukovec/UPN_Projektna_KeyPad/blob/main/KeyPad3x4_Fritzing/KeyPad3x4_BreadBoard.svg" alt="smb" width="500"> </td>
+</table>
 
 
 
