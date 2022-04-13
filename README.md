@@ -31,7 +31,7 @@ Vsaka napaka vrne krmilje v izhodiščni položaj. Vpis kombinacije je mogoč sa
 
 <ol>
   <li> Ko je stikalo prižgano in ključavnica sprejema vnašanje števil lahko začnemo vnašati PIN kodo. </li>
-  <li> Ključavnica ves čas preverja ali je vnos pravilen? </li>
+  <li> Ključavnica ves čas preverja ali je vnos pravilen </li>
   <ol>
     <li> Če je vnošeno geslo pravilno terminal izpiše "Geslo je pravilno" </li>
     <li> Če je vnošeno geslo napačno terminal izpiše "Geslo je napačno" </li>
