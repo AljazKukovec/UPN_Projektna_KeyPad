@@ -92,6 +92,10 @@ Vsaka napaka vrne krmilje v izhodiščni položaj. Vpis kombinacije je mogoč sa
     <td> NO </td>
     <td> Tipka za vnos karakterja * </td>
   </tr>
+  <th colspan=4> IZHODI </th>
+  <tr>
+
+  </tr>
   
 </table>
 
