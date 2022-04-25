@@ -94,9 +94,16 @@ Vsaka napaka vrne krmilje v izhodiščni položaj. Vpis kombinacije je mogoč sa
   </tr>
   <th colspan=4> IZHODI </th>
   <tr>
-
+    <td> OZNAKA V NAČRTU </td>
+    <td> NASLOV OPERANDA </td>
+    <td> AKTIVEN PRI </td>
+    <td> POMEN </td>
   </tr>
-  
+  <tr>
+    <td> Serial.Print </td>
+    <td> Y0 </td>
+    <td> 1 </td>
+    <td> Izpisuje vnose preko keypad-a </td>
 </table>
 
 
