@@ -90,7 +90,7 @@ Vsaka napaka vrne krmilje v izhodiščni položaj. Vpis kombinacije je mogoč sa
     <td> S12 </td>
     <td> Tipka: * </td>
     <td> NO </td>
-    <td> Tipka za vnos karakterja * </td>
+    <td> Tipka za vnos karakterja * in ponastavljanje vnosa pin-kode</td>
   </tr>
   <th colspan=4> IZHODI </th>
   <tr>
@@ -140,12 +140,29 @@ Vsaka napaka vrne krmilje v izhodiščni položaj. Vpis kombinacije je mogoč sa
   <th colspan=2> Fritzing </th>
     <tr>
       <td> Skematika </td>
-      <td> <img src="https://github.com/AljazKukovec/UPN_Projektna_KeyPad/blob/main/KeyPad3x4_Fritzing/KeyPad3x4_Schematic.svg"     alt="smb" width="500"> </td>
+      <td> <img src="https://github.com/AljazKukovec/UPN_Projektna_KeyPad/blob/main/KeyPad3x4_Fritzing/KeyPad3x4_Schematic.svg" alt="Fritzing skematika" width="500"> </td>
     <tr>
       <td> Breadboard </td>
-      <td> <img src="https://github.com/AljazKukovec/UPN_Projektna_KeyPad/blob/main/KeyPad3x4_Fritzing/KeyPad3x4_BreadBoard.svg" alt="smb" width="500"> </td>
+      <td> <img src="https://github.com/AljazKukovec/UPN_Projektna_KeyPad/blob/main/KeyPad3x4_Fritzing/KeyPad3x4_BreadBoard.svg" alt="Fritzing breadboard" width="500"> </td>
 </table>
 
+### 5. Libraries
+
+1. Spletne strani
+  * Fritzing [model](https://github.com/brucetsao/Fritzing/blob/master/KEYPAD%204x3.fzpz) KeyPad-a (spletna stran)
+  * Arduino [Keypad.h](https://playground.arduino.cc/Code/Keypad/) library 
+2. Datoteke (v tem repozitoriju)
+  * Ffritzing [model](https://github.com/AljazKukovec/UPN_Projektna_KeyPad/blob/main/KeyPad_Arduino_Library.zip) KeyPad-a 
+  * Arduino [Keypad.h](https://github.com/AljazKukovec/UPN_Projektna_KeyPad/blob/main/KeyPad_Arduino_Library.zip) library
+
+
+### 6. Video / Photo
+
+1. Slika vezave
+> <img src="https://github.com/AljazKukovec/UPN_Projektna_KeyPad/blob/main/ForDocumentation/Arduino_SlikaVezave.jpg" width="500">
+
+2. Video delovanja
+> [Video delovanja Arduina in kode](https://github.com/AljazKukovec/UPN_Projektna_KeyPad/blob/main/ForDocumentation/Arduino_Video_Delovanja.mov)
 
 
 
