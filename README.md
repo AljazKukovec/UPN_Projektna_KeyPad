@@ -147,10 +147,10 @@ Vsaka napaka vrne krmilje v izhodiščni položaj. Vpis kombinacije je mogoč sa
   <th colspan=2> Fritzing </th>
     <tr>
       <td> Skematika </td>
-      <td> <img src="https://github.com/AljazKukovec/UPN_Projektna_KeyPad/blob/main/KeyPad3x4_Fritzing/KeyPad3x4_Schematic.svg" alt="Fritzing skematika" width="500"> </td>
+      <td> <img src="https://github.com/AljazKukovec/UPN_Projektna_KeyPad/blob/main/KeyPad3x4_Fritzing/KeyPad3x4_Schem.svg" alt="Fritzing skematika" width="500"> </td>
     <tr>
       <td> Breadboard </td>
-      <td> <img src="https://github.com/AljazKukovec/UPN_Projektna_KeyPad/blob/main/KeyPad3x4_Fritzing/KeyPad3x4_BreadBoard.svg" alt="Fritzing breadboard" width="500"> </td>
+      <td> <img src="https://github.com/AljazKukovec/UPN_Projektna_KeyPad/blob/main/KeyPad3x4_Fritzing/KeyPad3x4_breadboard.svg" alt="Fritzing breadboard" width="500"> </td>
 </table>
 
 ### 5. Libraries
