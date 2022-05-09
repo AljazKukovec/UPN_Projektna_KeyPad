@@ -7,6 +7,18 @@ S pravilno kombinacijo 4 številk (npr. 6789) odpremo ključavnico (zelena LED).
 Vsaka napaka vrne krmilje v izhodiščni položaj. Vpis kombinacije je mogoč samo,
 če je vklopljeno stikalo na pozicijo 1.  
 
+## Kosovnica
+
+<ul>
+  <li> 1x redeča LED </li>
+  <li> 1x zelena LED </li>
+  <li> 1x KeyPad 3x4 </li>
+  <li> 1x Arduino UNO </li>
+  <li> 2x 220Ω upor </li>
+  <li> 1x BreadBoard </li>
+  <li> 1x Switch </li>
+</ul>
+
 
 ## UPORABA
 
