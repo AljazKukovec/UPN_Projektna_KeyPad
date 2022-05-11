@@ -16,7 +16,7 @@ Vsaka napaka vrne krmilje v izhodiščni položaj. Vpis kombinacije je mogoč sa
   <li> 1x Arduino UNO </li>
   <li> 2x 220Ω upor </li>
   <li> 1x BreadBoard </li>
-  <li> 1x Switch </li>
+  <li> 1x On/Off Switch </li>
 </ul>
 
 
