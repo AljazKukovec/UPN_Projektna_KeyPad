@@ -185,7 +185,7 @@ Vsaka napaka vrne krmilje v izhodiščni položaj. Vpis kombinacije je mogoč sa
 
 https://user-images.githubusercontent.com/62301201/167813071-b80fec8b-be63-4f00-b297-f3681ea65a98.mp4
 
-### Avtorja in Mentor
+### 7. Avtorja in Mentor
 
 1. Avtorja: 
   * Aljaž Kukovec
