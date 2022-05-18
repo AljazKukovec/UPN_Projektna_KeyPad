@@ -1,5 +1,12 @@
 # UPN - Projektna Naloga - KeyPad (DOKUMENTACIJA)
 
+## TOC
+
+1. [Navodila](#navodila)
+2. [Kosovnica]()
+3. [Uporaba]()
+4. [Avtoja in mentor]()
+
 ## Navodila
 
 Elektronska ključavnica 1: Na voljo imate 9 tipk (številke 1 do 9 na tipkovnici 3x4 "keypad").
@@ -185,7 +192,14 @@ Vsaka napaka vrne krmilje v izhodiščni položaj. Vpis kombinacije je mogoč sa
 
 https://user-images.githubusercontent.com/62301201/167813071-b80fec8b-be63-4f00-b297-f3681ea65a98.mp4
 
-### 7. Avtorja in Mentor
+
+### 7. Komentarji in izboljšava
+
+1. Pri prehitrem vnosu pin kode je možno, da se kakšna številka ne vnese;
+2. Kabli priklopljeni na Arduino in KeyPad-u se lahko zelo hitro odklopijo;
+3. Dodali bi lahko LCD ekran za izpis pin kode in tekstovnih sporočil namesto uporabe Serial.print komande
+
+## Avtorja in Mentor
 
 1. Avtorja: 
   * Aljaž Kukovec
