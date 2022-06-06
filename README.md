@@ -1,14 +1,5 @@
 # UPN - Projektna Naloga - KeyPad (DOKUMENTACIJA)
 
-## TOC - Table Of Contents
-
-1. [TOC](#toc-tableofcontents)
-2. [Navodila](#navodila)
-3. [Kosovnica](#kosovnica)
-4. [Uporaba](#uporaba)
-  - [Priredbeni Seznam](#priredbeniseznam)
-   
-6. [Avtoja in mentor](#avtorjainmentor)
 
 ## Navodila
 
